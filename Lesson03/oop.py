@@ -17,9 +17,8 @@ car2.start()
 
 #OOP principles (Nguyên lý OOP)
 # Tính đóng gói (Encapsulation means keeping data safe inside objects.) Giúp che giấu thông tin và chi tiết bên trong một đối tượng
-
-
 # Tính kế thừa (Inheritance lets one class get features from another.) Cho phép một lớp (lớp con) thừa hưởng các các thuộc tính và phương thức từ lớp khác (lớp cha). Lớp con có thể tái sử dụng mã nguồn từ lớp cha, đồng thời có thể mở rộng, bổ sung thêm các thuộc tính và phương thức mới.
+
 # Tính đa hình (Polymorphism means different classes can use the same method name in their own way.)
 # Tính trừu tượng: Abstraction hides complex details and shows only what is needed.
 

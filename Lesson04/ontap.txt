@@ -1,0 +1,4 @@
+Tính đóng gói (Encapsulation)
+Tính kế thừa (Inheritance)
+Tính đa hình (Polymorphism)
+Tính trừu tượng (Abstraction)
