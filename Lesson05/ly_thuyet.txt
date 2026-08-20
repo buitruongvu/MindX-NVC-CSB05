@@ -1,0 +1,33 @@
+Thuật toán: Là một dãy hữu hạn các bước cần thực hiện để giải quyết một vấn đề.
+
+Các đặc trưng của thuật toán: 
+    - Có đầu vào(Input)
+    - Có đầu ra (Output)
+    - Tính chính xác: Thuật toán phải giải quyết vấn đề một cách đúng đắn.
+    - Tính hữu hạn: Có hữu hạn số bước miêu tả được.
+    - Tính đơn trị: Một đầu vào thường cho ra một kết quả duy nhất.
+    - Tính tổng quát: Có thể áp dụng giải quyết cùng một nhóm vấn đề.
+
+Thuật toán tốt: Dựa vào hai tiêu chuẩn (Trong tin học)
+    - Đơn giản, dễ hiểu, dễ cài đặt
+    - Hiệu quả về thời gian thực hiện và dung lượng bộ nhớ cần để lưu trữ
+
+Khái niệm Big-O (Độ phức tạp của thuật toán) là đơn vị để đo lường hiệu quả về thời gian và không gian. Cho biết thuật toán chạy nhanh hay chậm
+
+Độ phức tạp (O) = n * số phép toán
+            n là kích thước dữ liệu đầu vào
+
+Các lệnh đơn (gán, nhập/xuất, toán tử,...): O(1) 
+Các khối lệnh: O(max(f_1(n), f_2(n), f_3(n),...))
+Câu lệnh rẽ nhánh: O(max(f_1(n), f_2(n), f_3(n),...))
+Câu lệnh lặp: O(f(n) * g(n))   với g(n) là số lần lặp
+Toàn chương trình: O(max(f_1(n), f_2(n), f_3(n),...))
+
+
+
+
+
+
+
+
+
