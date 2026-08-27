@@ -1,0 +1,11 @@
+Bài Toán Tìm kiếm
+    - Tìm kiếm tuần tự 
+    - Tìm kiếm nhị phân
+
+Tìm kiếm: là quá trình tìm một phần tử từ trong một tập hợp các phần tử dựa vào yêu cầu nào đó
+
+Trong đó:
+    - Tập hợp phần tử có thể là một mảng, một danh sách,...
+    - Mục tiêu tìm kiếm chính là vị trí phần tử cần tìm
+
+* Tìm Kiếm Tuần Tự -----------
